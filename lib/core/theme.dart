@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+import 'package:from_css_color/from_css_color.dart';
+
+// Note: Colors
+Color colorTextBold = const Color(0xFF212121);
+Color colorText = const Color(0xff424242);
+Color colorForm = const Color(0xFFf3f3f3);
+Color colorCard = const Color(0xFFE7E7E7);
+Color primaryColor = const Color.fromARGB(255, 7, 114, 177);
+Color blackColor = const Color(0xFF101010);
+Color whiteColor = const Color(0xffFFFFFF);
+Color redColor = const Color(0xffFD4F56);
+Color greyColor = const Color(0xffB3B5C4);
+Color transparentColor = Colors.transparent;
+Color inputFieldColor = const Color(0xffF1F0F5);
+Color greenColor = Colors.green;
+Color brownColor = const Color.fromARGB(255, 139, 114, 3);
+Color blueMain = const Color.fromARGB(48, 47, 151, 1);
+Color tealColor = Colors.teal;
+Color orangeMain = fromCssColor("#CBA851");
+// Color blueColor = fromCssColor("#302F97");
+Color blueColor = Color.fromARGB(255, 73, 71, 215);
+const accentColor = Color(0xFF53B966);
+const headlineColor = Color(0xFF181818);
+const textColor = Color(0xFF7d7d7d);
+const dangerColor = Color(0xFFDA2525);
+const buttonColor = Color(0xff009688);
+Color store = fromCssColor("#D9D9D9");
+Color greyFont = fromCssColor("#2F2B3DAD");
+Color container = fromCssColor("#F1F4F9");
+Color line = fromCssColor("#726F7B");
+Color borderColor = const Color(0XFFCCCCCC);
+Color blueGrey = fromCssColor("#F1F4F9");
